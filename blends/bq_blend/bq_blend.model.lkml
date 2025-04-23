@@ -1,0 +1,2 @@
+connection: "bigquery"
+include: "*.explore"
