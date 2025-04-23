@@ -1,2 +1,0 @@
-connection: "alloydb"
-include: "*.explore"
